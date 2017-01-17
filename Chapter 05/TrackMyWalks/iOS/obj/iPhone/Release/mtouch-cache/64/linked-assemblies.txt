@@ -1,0 +1,16 @@
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Runtime.Serialization.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.ServiceModel.Internals.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Maps.iOS.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Platform.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/TrackMyWalks.iOS.exe
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Maps.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Xml.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/TrackMyWalks.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Core.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Core.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Net.Http.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Mono.Dynamic.Interpreter.dll

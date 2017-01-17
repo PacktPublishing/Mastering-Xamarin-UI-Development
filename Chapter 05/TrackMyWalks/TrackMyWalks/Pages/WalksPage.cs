@@ -1,0 +1,113 @@
+﻿//
+//  WalksPage.cs
+//  TrackMyWalks
+//
+//  Created by Steven F. Daniel on 04/08/2016.
+//  Copyright © 2016 GENIESOFT STUDIOS. All rights reserved.
+//
+using Xamarin.Forms;
+using TrackMyWalks.Models;
+using TrackMyWalks.ViewModels;
+using TrackMyWalks.Services;
+using TrackMyWalks.DataTemplates;
+using TrackMyWalks.ValueConverters;
+
+namespace TrackMyWalks
+{
+	public class WalksPage : ContentPage
+	{
+		WalksPageViewModel _viewModel
+		{
+			get { return BindingContext as WalksPageViewModel; }
+		}
+
+		public WalksPage()
+		{
+			var newWalkItem = new ToolbarItem
+			{
+				Text = "Add Walk"
+			};
+
+			// Set up our Binding click event handler
+			newWalkItem.SetBinding(ToolbarItem.CommandProperty, "CreateNewWalk");
+
+			// Add the ToolBar item to our ToolBar
+			ToolbarItems.Add(newWalkItem);
+
+			// Declare and initialise our Model Binding Context
+			BindingContext = new WalksPageViewModel(DependencyService.Get<IWalkNavService>());
+
+			// Define our Item Template
+			var walksList = new ListView
+			{
+				HasUnevenRows = true,
+				ItemTemplate = new DataTemplate(typeof(WalkCellDataTemplate)),
+				SeparatorColor = (Device.OS == TargetPlatform.iOS) ? Color.Default : Color.Black
+			};
+
+			// Set the Binding property for our walks Entries
+			walksList.SetBinding(ItemsView<Cell>.ItemsSourceProperty, "walkEntries");
+			walksList.SetBinding(ItemsView<Cell>.IsVisibleProperty, "IsProcessBusy", converter: new BooleanConverter());
+
+			// Initialise our event Handler to use when the item is tapped
+			walksList.ItemTapped += (object sender, ItemTappedEventArgs e) =>
+			{
+				var item = (WalkEntries)e.Item;
+				if (item == null) return;
+				_viewModel.WalkTrailDetails.Execute(item);
+				item = null;
+			};
+
+			// Declare our Progress Label 
+			var progressLabel = new Label()
+			{
+				FontSize = 14,
+				FontAttributes = FontAttributes.Bold,
+				TextColor = Color.Black,
+				HorizontalTextAlignment = TextAlignment.Center,
+				Text = "Loading Trail Walks..."
+			};
+			// Apply PlatformEffects to our Progress Label
+			progressLabel.Effects.Add(Effect.Resolve("com.geniesoftstudios.LabelShadowEffect"));
+
+			// Instantiate and initialise our Activity Indicator.
+			var activityIndicator = new ActivityIndicator()
+			{
+				IsRunning = true
+			};
+
+			var progressIndicator = new StackLayout
+			{
+				Orientation = StackOrientation.Vertical,
+				HorizontalOptions = LayoutOptions.CenterAndExpand,
+				VerticalOptions = LayoutOptions.CenterAndExpand,
+				Children = {
+					activityIndicator,
+					progressLabel
+				}
+			};
+
+			progressIndicator.SetBinding(StackLayout.IsVisibleProperty, "IsProcessBusy");
+
+			var mainLayout = new StackLayout
+			{
+				Children =
+				{
+					walksList,
+					progressIndicator
+				}
+			};
+
+			Content = mainLayout;
+		}
+
+		protected override async void OnAppearing()
+		{
+			base.OnAppearing();
+
+			// Initialize our WalksPageViewModel
+			if (_viewModel != null)
+				await _viewModel.Init();
+		}
+	}
+}

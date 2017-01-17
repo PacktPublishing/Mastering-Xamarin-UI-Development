@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="facebookLogin">Log In to Facebook</string>
+	<string name="app_name">FacebookSample.Android</string>
+</resources>

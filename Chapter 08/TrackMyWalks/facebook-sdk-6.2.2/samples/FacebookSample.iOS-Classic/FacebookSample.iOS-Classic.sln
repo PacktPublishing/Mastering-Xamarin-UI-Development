@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookSample.iOS-Classic", "FacebookSample.iOS\FacebookSample.iOS-Classic.csproj", "{DB47EF91-7B91-4C26-81CC-4C33574CF348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Release|iPhone.Build.0 = Release|iPhone
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DB47EF91-7B91-4C26-81CC-4C33574CF348}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FacebookSample.iOS\FacebookSample.iOS.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/obj/Debug/TrackMyWalks.Droid.dll
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/obj/Debug/TrackMyWalks.Droid.dll.mdb

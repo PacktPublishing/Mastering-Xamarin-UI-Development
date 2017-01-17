@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{F622F5FE-A71F-4A3E-B45C-2468DBAA406C}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloFacebook PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54D7C461-E847-4EE8-A757-BD2F24A079AB" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../TrackMyWalks/ViewModels/LoginViewModel.cs">
+    <Files>
+      <File FileName="../../../../TrackMyWalks/Pages/LoginPage.cs" Line="27" Column="39" />
+      <File FileName="../../../../TrackMyWalks/Pages/SplashPage.cs" Line="1" Column="1" />
+      <File FileName="../../../../TrackMyWalks/Pages/WalkEntryPage.cs" Line="27" Column="86" />
+      <File FileName="../../../../TrackMyWalks/ViewModels/DistTravelledViewModel.cs" Line="1" Column="1" />
+      <File FileName="../../../../TrackMyWalks/ViewModels/LoginViewModel.cs" Line="55" Column="13" />
+      <File FileName="../../../../TrackMyWalks/ViewModels/WalkBaseViewModel.cs" Line="14" Column="1" />
+      <File FileName="../../../../TrackMyWalks/ViewModels/WalkEntryViewModel.cs" Line="1" Column="1" />
+      <File FileName="../../../../TrackMyWalks/Services/IWalkNavService.cs" Line="23" Column="27" />
+      <File FileName="../../../../TrackMyWalks/ViewModels/WalksPageViewModel.cs" Line="40" Column="1" />
+      <File FileName="../../../../TrackMyWalks/ViewModels/WalksTrailViewModel.cs" Line="1" Column="1" />
+      <File FileName="../../../../TrackMyWalks/TrackMyWalks.cs" Line="48" Column="40" />
+      <File FileName="../../../../TrackMyWalks/Pages/WalksPage.cs" Line="23" Column="4" />
+      <File FileName="../../../../TrackMyWalks/Pages/DistanceTravelled.cs" Line="1" Column="1" />
+      <File FileName="../../../../iOS/Main.cs" Line="19" Column="1" />
+      <File FileName="../../../../iOS/AppDelegate.cs" Line="11" Column="1" />
+      <File FileName="../../../../TrackMyWalks/Models/WalkApiUser.cs" Line="5" Column="41" />
+      <File FileName="../../../../TrackMyWalks/Models/WalkEntries.cs" Line="1" Column="1" />
+      <File FileName="../../../../TrackMyWalks/Services/IFacebookAuthService.cs" Line="6" Column="39" />
+      <File FileName="ViewController.cs" Line="1" Column="1" />
+      <File FileName="Entitlements.plist" />
+      <File FileName="Info.plist" />
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="AppDelegate.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloFacebook" expanded="True">
+            <Node name="HelloFacebook" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="TrackMyWalks" expanded="True">
+            <Node name="TrackMyWalks" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="LoginViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TrackMyWalks.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/WalksPageViewModel.cs" line="44" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/Services/FacebookAuth.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

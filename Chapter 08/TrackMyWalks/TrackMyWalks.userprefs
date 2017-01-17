@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0AE9F8DD-9F96-4F67-84FE-C568A500821B}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.TrackMyWalks.Droid PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.ItemProperties.TrackMyWalks.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DDC14C62-8196-4E08-AD55-71BDB6810A5C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/Services/FacebookAuth.cs" line="21" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/SignInViewModel.cs" line="50" column="23" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/LoginViewModel.cs" line="37" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/LoginViewModel.cs" line="44" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/iOS/Services/FacebookAuthService.cs" line="20" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/FBSignInViewModel.cs" line="93" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/iOS/Renderers/LoginPageRenderer.cs" line="17" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/FBSignInViewModel.cs" line="71" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/FBSignInViewModel.cs" line="75" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/FBSignInViewModel.cs" line="15" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/iOS/Renderers/FBSigninPageRenderer.cs" line="103" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/ViewModels/FBSignInViewModel.cs" line="37" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/Droid/Renderers/FBSignInPageRenderer.cs" line="115" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/Droid/FBSignInRenderer.cs" line="48" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/Droid/FBSignInPageRenderer.cs" line="56" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/Droid/FBSignInPageRenderer.cs" line="62" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

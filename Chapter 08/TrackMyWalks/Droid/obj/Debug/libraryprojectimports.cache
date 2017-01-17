@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/PCLCrypto/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/Xamarin.Auth/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/PCLCrypto/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Auth/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/PCLCrypto.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/stevendaniel/Desktop/B05731 - Book Code Examples/Chapter 08/TrackMyWalks/Droid/obj/Debug/__library_projects__/Xamarin.Auth.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

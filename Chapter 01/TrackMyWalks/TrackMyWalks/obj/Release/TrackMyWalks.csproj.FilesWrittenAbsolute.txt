@@ -1,0 +1,7 @@
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/bin/Release/TrackMyWalks.dll
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/obj/Release/TrackMyWalks.dll
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/bin/Release/Xamarin.Forms.Core.dll
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/bin/Release/Xamarin.Forms.Platform.dll
+/Users/stevendaniel/Projects/TrackMyWalks/TrackMyWalks/bin/Release/Xamarin.Forms.Maps.dll

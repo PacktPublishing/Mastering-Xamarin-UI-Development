@@ -1,0 +1,16 @@
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/System.ServiceModel.Internals.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/Xamarin.Forms.Maps.iOS.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/Xamarin.Forms.Platform.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/TrackMyWalks.iOS.exe
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/Xamarin.Forms.Maps.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/System.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/System.Xml.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/TrackMyWalks.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/System.Core.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/mscorlib.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/System.Net.Http.dll
+/Users/stevendaniel/Projects/TrackMyWalks/iOS/obj/iPhone/Debug/build-iphone8.2-10.0.1/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll

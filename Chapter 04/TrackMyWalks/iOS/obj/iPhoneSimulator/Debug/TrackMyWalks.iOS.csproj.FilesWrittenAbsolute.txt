@@ -1,0 +1,17 @@
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/TrackMyWalks.iOS.exe.mdb
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/TrackMyWalks.iOS.exe
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/obj/iPhoneSimulator/Debug/TrackMyWalks.iOS.exe
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/obj/iPhoneSimulator/Debug/TrackMyWalks.iOS.exe.mdb
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/TrackMyWalks.dll
+/Users/stevendaniel/Desktop/Chapter 04/TrackMyWalks/iOS/bin/iPhoneSimulator/Debug/TrackMyWalks.dll.mdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0AE9F8DD-9F96-4F67-84FE-C568A500821B}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.TrackMyWalks.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ENU7N15A27005445" />
+  <MonoDevelop.Ide.ItemProperties.TrackMyWalks.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DDC14C62-8196-4E08-AD55-71BDB6810A5C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/iOS/Services/WalkLocationService.cs" line="175" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/iOS/Services/WalkLocationService.cs" line="188" column="1" />
+      <Breakpoint file="/Users/stevendaniel/Projects/TrackMyWalks/iOS/Services/LocationService.cs" line="121" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

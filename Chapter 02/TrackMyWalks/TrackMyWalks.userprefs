@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{0AE9F8DD-9F96-4F67-84FE-C568A500821B}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.TrackMyWalks.Droid PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.ItemProperties.TrackMyWalks.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DDC14C62-8196-4E08-AD55-71BDB6810A5C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

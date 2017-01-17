@@ -1,0 +1,36 @@
+﻿@using BookLibrary.Droid
+@model BookItem
+
+<html>
+<head>
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+	<h1>Add New Book Details</h1>
+	<table border="1" cellpadding="8">
+	<form action="hybrid:SaveBookDetails" method="GET">
+		<input name="id" type="hidden" value="@Model.id" />
+		<tr>
+		<td>Title:
+		<input name="Title" value="@Model.title" /></td>
+		<tr>
+		<td>Author:
+		<input name="Author" value="@Model.author" /></td>
+		<tr>
+		<td>Book ISBN:
+		<input name="ISBN" value="@Model.isbn" /></td>
+		<tr>
+		<td>Synopsis:
+		<textarea name="Synopsis" rows="5" cols="40">
+   		@Model.synopsis
+   		</textarea></td>
+		<tr>
+		<td colspan="8">
+			<input type="submit" name="Button" value="Save"/>
+			<input type="submit" name="Button" value="Cancel"/>
+		</td>
+		</tr>
+	</form>
+</table>
+</body>
+</html>

@@ -1,0 +1,29 @@
+﻿@using BookLibrary
+@model List<BookItem>
+<html>
+	<head><link rel="stylesheet" href="style.css" /></head>
+<body>
+	<p></p>
+	<h1>Book Library Database Listing</h1>
+
+	 <table border="1" cellpadding="5">
+			@foreach (var book in @Model) {
+                <tr>
+                    <td>@book.Id</td>
+					<td>@book.Title</td>
+					<td>@book.Author</td>
+					<td>@book.Isbn</td>			
+					<td>
+					<a href="hybrid:EditBookDetails?id=@book.Id">Edit</a>
+					</td>
+                </tr>
+            }
+            <tr>
+                <td colspan="8">
+                    <a href="hybrid:CreateNewBook?">
+					<input type="submit" name="Button" value="Add New Book"/></a>
+                </td>
+            </tr>
+        </table>
+</body>
+</html>

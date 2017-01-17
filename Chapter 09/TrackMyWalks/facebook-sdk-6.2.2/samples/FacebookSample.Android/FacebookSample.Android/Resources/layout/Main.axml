@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgUser" />
+    <TextView
+        android:text="Logged In Username"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/txtvUserName" />
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/facebookLogin" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1" />
+    <Button
+        android:text="Post &quot;Hi&quot; to your wall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPostWall" />
+    <Button
+        android:text="Remove &quot;Hi&quot; from your Wall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnRemovePost" />
+    <Button
+        android:text="Graph API Sample"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnGraphSample" />
+    <Button
+        android:text="FQL Sample"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFQLSample" />
+</LinearLayout>

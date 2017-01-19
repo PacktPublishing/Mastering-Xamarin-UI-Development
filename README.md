@@ -1,6 +1,7 @@
 #Mastering Xamarin UI Development
 This is the code repository for [Mastering Xamarin UI Development](https://www.packtpub.com/application-development/mastering-xamarin-ui-development?utm_source=github&utm_medium=repository&utm_campaign=9781786462008), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
+Xamarin is the most powerful cross-platform mobile development framework. If you are interested in creating stunning user interfaces for the iOS and Android mobile platforms using the power of Xamarin and Xamarin.Forms, then this is your ticket.
 
 ##Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.

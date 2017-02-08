@@ -22,8 +22,8 @@ using Xamarin.Forms;
 namespace TrackMyWalks
 {
   public class WalkEntryViewModel : WalkBaseViewModel
-    {
-```
+  {
+    ```
 
 The minimum requirement for this book is an Intel-based Macintosh computer running OS
 X El Capitan 10.11. We will be using Xamarin Studio 6.1.2, which is the Integrated
@@ -39,6 +39,8 @@ correctly. You can download the latest versions of Xamarin Studio and Xcode at:
 * [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/application-development/xamarin-cross-platform-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785880537)
 
 * [Xamarin Mobile Application Development for iOS](https://www.packtpub.com/application-development/xamarin-mobile-application-development-ios?utm_source=github&utm_medium=repository&utm_campaign=9781783559183)
+
+* [Mastering Xamarin.Forms] (https://www.packtpub.com/application-development/mastering-xamarinforms?utm_source=github&utm_medium=repository)
 
 ###Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.

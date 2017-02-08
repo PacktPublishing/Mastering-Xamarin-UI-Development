@@ -22,7 +22,7 @@ using Xamarin.Forms;
 namespace TrackMyWalks
 {
   public class WalkEntryViewModel : WalkBaseViewModel
-{
+    {
 ```
 
 The minimum requirement for this book is an Intel-based Macintosh computer running OS
@@ -32,8 +32,8 @@ as well as Xcode 8.2.1 to compile our iOS app and run this within the simulator.
 Almost all the projects that you create with the help of this book will work and run on the
 iOS simulator. However, some projects will require an iOS or Android device to work
 correctly. You can download the latest versions of Xamarin Studio and Xcode at:
-Xamarin Studio: http://xamarin.com/download
-Xcode: https://itunes.apple.com/au/app/xcode/id497799835?mt=12
+[Xamarin Studio](http://xamarin.com/download)
+[Xcode](https://itunes.apple.com/au/app/xcode/id497799835?mt=12).
 
 ##Related Products
 * [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/application-development/xamarin-cross-platform-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785880537)

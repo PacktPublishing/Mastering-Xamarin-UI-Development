@@ -9,6 +9,7 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 
 The code will look like the following:
+
 ```
 //
 // WalkEntryViewModel.cs
@@ -23,7 +24,8 @@ namespace TrackMyWalks
 {
   public class WalkEntryViewModel : WalkBaseViewModel
   {
-    ```
+```
+
 
 The minimum requirement for this book is an Intel-based Macintosh computer running OS
 X El Capitan 10.11. We will be using Xamarin Studio 6.1.2, which is the Integrated

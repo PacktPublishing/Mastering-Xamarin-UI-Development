@@ -40,7 +40,7 @@ correctly. You can download the latest versions of Xamarin Studio and Xcode at:
 
 * [Xamarin Mobile Application Development for iOS](https://www.packtpub.com/application-development/xamarin-mobile-application-development-ios?utm_source=github&utm_medium=repository&utm_campaign=9781783559183)
 
-* [Mastering Xamarin.Forms](https://www.packtpub.com/application-development/mastering-xamarinforms?utm_source=github&utm_medium=repository)
+* [Mastering Xamarin.Forms](https://www.packtpub.com/application-development/mastering-xamarinforms?utm_source=github&utm_campaign=9781785287190&utm_medium=repository)
 
 ###Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
